@@ -1,1 +1,0 @@
-echo "# sriyalmusaddi.github.io"
